@@ -119,7 +119,7 @@ strong {
     background-size: cover;
 }
 .breadcrumb-section {
-    margin: 40px 0;
+    margin: 25px 0;
 }
 
 .breadcrumb-section .container {
@@ -586,7 +586,7 @@ a.blue-hover:hover {
     padding: 20px;
     transition: all 0.2s linear;
     overflow: hidden;
-    cursor: pointer;
+    cursor: default;
 }
 
 .hero-section_pump-blocks-container > div img {
@@ -1826,10 +1826,11 @@ a.blue-hover:hover {
 .maintenance-page .hero-section_main-content-container {
     background-repeat: no-repeat;
     background-position: right;
-    padding: 76px 40px;
+    padding: 62px 40px;
 }
+
 .about-us-page, .installation-page, .maintenance-page {
-    padding-top: 104px;
+    padding-top: 133px;
 }
 
 .installation-page .hero-section_main-content-container {
