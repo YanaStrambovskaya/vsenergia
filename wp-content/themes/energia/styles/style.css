@@ -296,7 +296,7 @@ a.blue-hover:hover {
     overflow: hidden;
 }
 .hero-section {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/header_banner_rounded.png');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/header_banner_rounded.png');
     background-position: top;
     background-repeat: no-repeat;
     /* background-size: cover; */
@@ -377,7 +377,7 @@ a.blue-hover:hover {
 }
 
 .hero-section_header-nav-whatsup-link .whatsup-icon {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/whatsup.svg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/whatsup.svg);
     background-size: contain;
     width: 40px;
     height: 40px;
@@ -387,7 +387,7 @@ a.blue-hover:hover {
 
 .hero-section_header-nav-whatsup-link:hover .whatsup-icon,
 .hero-section_header-nav-whatsup-link:active .whatsup-icon {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/whatsup_hover.svg');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/whatsup_hover.svg');
 }
 
 .hero-section_header-nav-buttons-container {
@@ -903,7 +903,7 @@ a.blue-hover:hover {
 
 .feedback-section .custom-slick-prev,
 .feedback-section .custom-slick-next {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/arrow-slick.svg');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/arrow-slick.svg');
     background-repeat: no-repeat;
     width: 12px;
     height: 24px;
@@ -924,7 +924,7 @@ a.blue-hover:hover {
 
 .feedback-section .custom-slick-prev:hover,
 .feedback-section .custom-slick-next:hover {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/arrow-slick-hover.svg');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/arrow-slick-hover.svg');
     background-repeat: no-repeat;
     width: 12px;
     height: 24px;
@@ -1297,7 +1297,7 @@ a.blue-hover:hover {
 
 .models-section .custom-slick-prev,
 .models-section .custom-slick-next {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/models-arrow.svg');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/models-arrow.svg');
     background-repeat: no-repeat;
     width: 40px;
     height: 40px;
@@ -1318,7 +1318,7 @@ a.blue-hover:hover {
 
 .models-section .custom-slick-prev:hover,
 .models-section .custom-slick-next:hover {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/models-arrow-hover.svg');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/models-arrow-hover.svg');
     background-repeat: no-repeat;
     width: 40px;
     border-radius: 50%;
@@ -1391,7 +1391,7 @@ a.blue-hover:hover {
 
 .partners-section .custom-slick-prev,
 .partners-section .custom-slick-next {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/arrow-slick.svg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/arrow-slick.svg);
     background-repeat: no-repeat;
     width: 12px;
     height: 24px;
@@ -1412,7 +1412,7 @@ a.blue-hover:hover {
 
 .partners-section .custom-slick-prev:hover,
 .partners-section .custom-slick-next:hover {
-    background-image: url('/vsenergia/wp-content/themes/energia/images/arrow-slick-hover.svg');
+    background-image: url('/vsenergia//wp-content/themes/energia/images/arrow-slick-hover.svg');
     background-repeat: no-repeat;
     width: 12px;
     height: 24px;
@@ -1835,37 +1835,37 @@ a.blue-hover:hover {
 }
 
 .installation-page .hero-section_main-content-container {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/installation-hero.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/installation-hero.jpg);
 }
 
 .about-us-page .hero-section_main-content-container {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/about-us-hero.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/about-us-hero.jpg);
 }
 
 .maintenance-page .hero-section_main-content-container {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/maintenance-hero.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/maintenance-hero.jpg);
 }
 /* ---------------------------------------------------------------------------------------- */
 .installation-page .image-bg-col.installation-info-img {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/installation-info.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/installation-info.jpg);
 }
 
 .maintenance-page .image-bg-col.maintenance-info-img {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/maintenance-info.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/maintenance-info.jpg);
     height: 310px;
 }
 
 .about-us-page .image-bg-col.about-us-info-img {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/about-us-info.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/about-us-info.jpg);
     background-position: center;
 }
 
 .about-us-page .image-bg-col.checklist-orange-img {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/checklist-orange.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/checklist-orange.jpg);
 }
 
 .about-us-page .image-bg-col.checklist-blue-img {
-    background-image: url(/vsenergia/wp-content/themes/energia/images/checklist-blue.jpg);
+    background-image: url(/vsenergia//wp-content/themes/energia/images/checklist-blue.jpg);
 }
 @media(max-width:991px) {
     .about-us-page, .installation-page, .maintenance-page {
@@ -1891,11 +1891,11 @@ a.blue-hover:hover {
 }
 
 .checklist.orange ul li:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/check-circle-orange.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/check-circle-orange.svg);
 }
 
 .checklist.blue ul li:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/check-circle-blue.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/check-circle-blue.svg);
 }
 /* ---------------------------------------------------------------------------------------- */
 
@@ -1938,11 +1938,11 @@ a.blue-hover:hover {
 }
 
 .tiles-section_item.white-tile ul li:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/arrow-right-circle.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/arrow-right-circle.svg);
 }
 
 .tiles-section_item.blue-tile ul li:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/arrow-right-circle-white.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/arrow-right-circle-white.svg);
 }
 
 .tiles-section_item-title {
@@ -1953,27 +1953,27 @@ a.blue-hover:hover {
 
 /* Define icon next to the Title */
 .tiles-section_item-title.household:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/household-icon.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/household-icon.svg);
 }
 
 .tiles-section_item-title.city_regular:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/city_regular-icon.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/city_regular-icon.svg);
 }
 
 .tiles-section_item-title.shield-check:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/shield-check-icon.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/shield-check-icon.svg);
 }
 
 .tiles-section_item-title.rocket:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/rocket-lunch-icon.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/rocket-lunch-icon.svg);
 }
 
 .tiles-section_item-title.vision:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/vision-icon.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/vision-icon.svg);
 }
 
 .tiles-section_item-title.box-open:before {
-    content: url(/vsenergia/wp-content/themes/energia/images/box-open-full-icon.svg);
+    content: url(/vsenergia//wp-content/themes/energia/images/box-open-full-icon.svg);
 }
 
 @media (max-width: 991px) { 
