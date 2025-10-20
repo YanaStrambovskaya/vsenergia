@@ -119,7 +119,7 @@ strong {
     background-size: cover;
 }
 .breadcrumb-section {
-    margin: 25px 0;
+    margin: 34px 0;
 }
 
 .breadcrumb-section .container {
@@ -1830,7 +1830,7 @@ a.blue-hover:hover {
 }
 
 .about-us-page, .installation-page, .maintenance-page {
-    padding-top: 133px;
+    padding-top: 131px;
 }
 
 .installation-page .hero-section_main-content-container {
