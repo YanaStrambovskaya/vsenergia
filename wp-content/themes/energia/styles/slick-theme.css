@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('/vsenergia//wp-content/themes/energia/styles/ajax-loader.gif') center center no-repeat;
+    background: #fff url('https://yanastrambovskaya.github.io/vsenergia/wp-content/themes/energia/styles/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,8 +12,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('/vsenergia//wp-content/themes/energia/styles/fonts/slick.eot');
-    src: url('/vsenergia//wp-content/themes/energia/styles/fonts/slick.eot#iefix') format('embedded-opentype'), url('/vsenergia//wp-content/themes/energia/styles/fonts/slick.woff') format('woff'), url('/vsenergia//wp-content/themes/energia/styles/fonts/slick.ttf') format('truetype'), url('/vsenergia//wp-content/themes/energia/styles/fonts/slick.svg#slick') format('svg');
+    src: url('https://yanastrambovskaya.github.io/vsenergia/wp-content/themes/energia/styles/fonts/slick.eot');
+    src: url('https://yanastrambovskaya.github.io/vsenergia/wp-content/themes/energia/styles/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://yanastrambovskaya.github.io/vsenergia/wp-content/themes/energia/styles/fonts/slick.woff') format('woff'), url('https://yanastrambovskaya.github.io/vsenergia/wp-content/themes/energia/styles/fonts/slick.ttf') format('truetype'), url('https://yanastrambovskaya.github.io/vsenergia/wp-content/themes/energia/styles/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

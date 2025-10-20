@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/vsenergia/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://yanastrambovskaya.github.io/vsenergia/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/vsenergia/</loc>
+		<loc>https://yanastrambovskaya.github.io/vsenergia/</loc>
 		<lastmod>2025-04-04T12:14:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vsenergia/sample-page/</loc>
+		<loc>https://yanastrambovskaya.github.io/vsenergia/sample-page/</loc>
 		<lastmod>2025-04-03T11:13:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vsenergia/privacy-policy/</loc>
+		<loc>https://yanastrambovskaya.github.io/vsenergia/privacy-policy/</loc>
 		<lastmod>2025-04-04T12:31:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vsenergia/about-us/</loc>
+		<loc>https://yanastrambovskaya.github.io/vsenergia/about-us/</loc>
 		<lastmod>2025-04-05T14:33:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vsenergia/heat-pump-installation/</loc>
+		<loc>https://yanastrambovskaya.github.io/vsenergia/heat-pump-installation/</loc>
 		<lastmod>2025-04-05T15:03:03+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/vsenergia/heat-pump-maintenance/</loc>
+		<loc>https://yanastrambovskaya.github.io/vsenergia/heat-pump-maintenance/</loc>
 		<lastmod>2025-04-05T20:10:37+00:00</lastmod>
 	</url>
 </urlset>
